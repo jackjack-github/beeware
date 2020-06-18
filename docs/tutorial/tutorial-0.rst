@@ -162,7 +162,7 @@ and without the need to re-install Python.
   .. group-tab:: Windows
 
     .. code-block:: doscon
-
+      Open a Command Prompt (left-click Start in the bottom left) and type 'cmd' then select Command Prompt
       C:\...>md beeware-tutorial
       C:\...>cd beeware-tutorial
       C:\...>py -m venv beeware-venv
